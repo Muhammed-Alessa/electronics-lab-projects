@@ -11,16 +11,21 @@ according to the day/night intensity... The designer used a small cell as a
 daylight sensor, noting that the cell outputs 15 volts in the middle of the day... 
 
 ## Components
-
+-   5V DC Voltage Source
+-   9V DC Battery
+-   NPN Transistor
+-   PNP Transistor
+-   Zener Diode (1N759, 12V)
+-   Standard Diode
+-   6 Light Emitting Diodes (LEDs)
+-   1kΩ Resistor
+-   Two 10kΩ Resistors
 ## Circuit Diagram  
-Add Fritzing or schematic image here.
+- Using Circuit Wizard
+
 
 ## Hardware Build  
 Add real breadboard photos here.
 
-
-## Code  
-Add Arduino code or link to the code folder.  
-  
 ## Result  
 When the potentiometer is rotated, the LED level changes.
