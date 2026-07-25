@@ -54,7 +54,6 @@ A plant supervisor needs the four operations his machine performs to fire in a f
 
 Starting from a clock source that ticks once per second, use a CD4017 decade counter to drive two banks of LEDs so that they flash back and forth — one bank on while the other is off, swapping on every pulse.
 
-_Note: the original Arabic ("كل مجموعتين") is slightly ambiguous — most likely alternating between two groups, but possibly stepping through several groups two at a time._
 
 ## 14. Race Start Countdown
 
@@ -81,3 +80,5 @@ _Note: that 20°C gap is the point of the exercise — the hysteresis is what st
 ## 18. Boost-Driven LED Flashlight
 
 Put the oscillator and step-up converter material to practical use. Design a handheld torch powered by a single 3.7 V lithium cell that drives a string of six white LEDs wired in series.
+
+Note: the series arrangement is what forces the design — six white LEDs stack up to roughly 18–20 V of forward drop, well above the cell, so a boost stage is unavoidable. Current regulation matters more than voltage regulation, since the LEDs share one current path.
