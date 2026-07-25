@@ -1,14 +1,7 @@
-# Project: Automated Day/Night Aquarium Lighting System
+# Project 01: Automated Day/Night Aquarium Lighting System
 
 ## Overview
-An aquarium seller wants to add an interactive feature to the tank. This 
-involves adding a set of white and blue LEDs to the tank, such that the white 
-LEDs' brightness corresponds to the strength of the sunlight during the day, 
-And the blue LEDs light up at night.
-
-There is a simple circuit with basic components to light up 3 white/blue LEDs 
-according to the day/night intensity... The designer used a small cell as a 
-daylight sensor, noting that the cell outputs 15 volts in the middle of the day... 
+Build lighting for a fish tank that reacts to ambient light on its own. Three LEDs are involved: the white ones should glow more strongly as daylight gets brighter, while the blue ones take over once it gets dark. Sensing is done with a small solar cell, which reaches about 15 V under full midday sun. The circuit should stay simple and use only basic components.
 
 ## Components
 -   5V DC Voltage Source
