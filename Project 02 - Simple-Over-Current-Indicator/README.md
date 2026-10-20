@@ -1,4 +1,4 @@
-# Simple Over-Current Indicator
+# Automated Day/Night Aquarium Lighting System
 
 ## Overview
 Build lighting for a fish tank that reacts to ambient light on its own. Three LEDs are involved: the white ones should glow more strongly as daylight gets brighter, while the blue ones take over once it gets dark. Sensing is done with a small solar cell, which reaches about 15 V under full midday sun. The circuit should stay simple and use only basic components.
