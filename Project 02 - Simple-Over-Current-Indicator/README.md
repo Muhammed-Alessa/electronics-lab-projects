@@ -1,7 +1,7 @@
 # Simple Over-Current Indicator
 
 ## Overview
-A lamp manufacturer needs a quick go/no-go test for its 12 V lamps: anything drawing more than 1 A fails. Come up with the lowest-cost circuit that turns on a red LED above that threshold and a green LED below it — essentially a one-point current comparison with a visual output.
+Build lighting for a fish tank that reacts to ambient light on its own. Three LEDs are involved: the white ones should glow more strongly as daylight gets brighter, while the blue ones take over once it gets dark. Sensing is done with a small solar cell, which reaches about 15 V under full midday sun. The circuit should stay simple and use only basic components.
 
 ## Component List
 
