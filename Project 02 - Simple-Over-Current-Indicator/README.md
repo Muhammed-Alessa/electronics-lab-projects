@@ -42,9 +42,4 @@ Add Fritzing or schematic image here.
 ![image](schematic/image.png) 
 
 
-## How It Works
-
-
-
-## Result
 
