@@ -6,3 +6,4 @@ A lamp manufacturer needs a quick go/no-go test for its 12 V lamps: anything dra
 ## Components
 
 ## Circuit Diagram
+![image](schematic/image.png)
