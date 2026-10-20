@@ -41,14 +41,10 @@ A lamp manufacturer needs a quick go/no-go test for its 12 V lamps: anything dra
 Add Fritzing or schematic image here.
 ![image](schematic/image.png) 
 
-## Hardware Build
-
-Add real breadboard photos here.
 
 ## How It Works
 
-The Arduino reads the analog voltage from the potentiometer using an analog input pin. The value is converted into a number of LEDs to turn ON.
+
 
 ## Result
 
-When the potentiometer is rotated, the LED level changes.
