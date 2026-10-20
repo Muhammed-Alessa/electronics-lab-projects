@@ -1,5 +1,5 @@
 # electronics-lab-projects
-Small practical electronics projects covering analog circuits, digital logic, Arduino, sensors, and mixed-signal experiments.
+Small practical electronics projects covering analog circuit experiments.
 
 
 ## 1. Automated Day/Night Aquarium Lighting System
