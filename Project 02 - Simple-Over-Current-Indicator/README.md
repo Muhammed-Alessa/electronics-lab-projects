@@ -8,7 +8,7 @@ A lamp manufacturer needs a quick go/no-go test for its 12 V lamps: anything dra
 ## Circuit Diagram
 
 Add Fritzing or schematic image here.
-![image](.attachments/9e68fd17d351a965e2230d7d138b08b8b4343cfb.png) 
+![image](schematic/image.png) 
 
 ## Hardware Build
 
